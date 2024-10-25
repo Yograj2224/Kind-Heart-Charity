@@ -1,0 +1,81 @@
+.logo-text h5:hover{
+    color: black;
+}
+
+.header-2-menu ul li:hover{
+    color: #5bc1ac;
+}
+.header-2-button button:hover{
+    color: white;
+    background-color: #5bc1ac;
+    outline: none;
+    border: transparent;
+}
+.box2-img-box-in:hover{
+    box-shadow: 1px 1px 20px 10px #ececec;
+    background-color: white;
+}
+.box2-img-box-in:hover img{
+    transform: scale(0.7);
+    transition: 1s;
+}
+.box2-img-box-in:hover .box2-in-text{
+    transform: scale(1.1);
+    transition: 1s;
+}
+.box4-midel-box2-icon ul li:hover{
+    background-color: #5bc1ac;
+}
+.box5-midel-box-text a:hover{
+    color: #5bc1ac;
+}
+.box5-midel-box-button button:hover{
+    background-color: #5bc1ac;
+}
+.box6-midel-box-iner:hover{
+    box-shadow: 1px 0px 20px 10px #ececec;
+}
+.box6-button button:hover{
+    background-color: #5bc1ac;
+}
+.box7-sub-button button:hover{
+    background-color: #5bc1ac;
+}
+.box8-box1-iner-text a:hover{
+    color: #5bc1ac;
+}
+.box8-lines a:hover{
+    color: #5bc1ac;
+}
+.box8-lines-button button:hover{
+    color: black;
+    border: solid black 1px;
+}
+.box8-submit-button button:hover{
+    background-color: #5bc1ac;
+}
+.box10-contact-box a:hover{
+    color: #5bc1ac;
+}
+.box10-button button:hover{
+    background-color: #5bc1ac;
+}
+.box10-ar-butto button:hover{
+    background-color: #5bc1ac;
+}
+.footer-ul-li ul li a:hover{
+    color: #5bc1ac;
+}
+.footer-ul-li-2 ul li a:hover{
+    color: #5bc1ac;
+}
+.footer-ul-li-button button:hover{
+    background-color: #5bc1ac;
+}
+.footer-end-midel-1 ul li i:hover{
+    background-color: #5bc1ac;
+    color: white;
+}
+.footer-decoration-color1 a:hover{
+    color: #5bc1ac;
+}

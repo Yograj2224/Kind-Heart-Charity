@@ -1,0 +1,218 @@
+@media only screen and (min-width:200px) and (max-width:567px)
+{
+    header{
+        min-width: 100%;
+    }
+    .header-2-menu{
+        display: none;
+    }
+    .header-2-button{
+        display: none;
+    }
+    .header-2-icon-for-res{
+        visibility: visible;
+        color:#5a6f80;
+        font-size: 30px;
+    }
+    .logo-text h5{
+        font-size: 22px;
+    }
+    .logo-text h6{
+        font-size: 10px;
+    }
+    .box1-decoration{
+        top: 83px;
+        right: -341px;
+    }
+    .box1-decoratin-2{
+        top: 100px;
+        left: 93px;
+        text-align: left;
+        padding: 0px 0px;
+    }
+    .box1-decoratin-2 h1{
+        font-size: 30px;
+    }
+    .box1-decoratin-2 h6{
+        visibility: hidden;
+    }
+    .box2{
+        bottom: -885px;
+    }
+    .box-2-img-box{
+        flex-direction: column;
+    }
+    .box2-hadding{
+        padding: 10px 0px;
+        font-size: 25px;
+    }
+    .box2-img-box-in{
+        width: 100%;
+    }
+    .box3{
+        margin-top: 1215px;
+        padding: 50px 0px;
+    }
+    .box3-in{
+        flex-direction: column;
+        gap: 40px;
+    }
+    .box3-in-box{
+        width: 100%;
+    }
+    .box-right2-in-2{
+        width: 100%;
+        flex-direction: column;
+    }
+    .box-right2-in{
+        width: 100%;
+        padding: 20px 20px;
+    }
+    .box3-in-box-right2{
+        flex-direction: column;
+        gap: 40px;
+    }
+    .right-box-in-2{
+        padding: 10px 0px;
+    }
+    .box-right-hadding h2{
+        font-size: 30px;
+    }
+    .box-right-hadding h4{
+        font-size: 20px;
+    }
+    .box-right-p p{
+        font-size: 15px;
+    }
+    .box4-midel{
+        width: 80%;
+        flex-direction: column;
+    }
+    .box4-midel-box1{
+        width: 100%;
+    }
+    .box4-midel-box2{
+        width: 100%;
+    }
+    .box4-midel-box1 img{
+        width: 100%;
+        height: 50%;
+    }
+    .box4-midel-box2-hadding h3{
+        font-size: 30px;
+    }
+    .box5{
+        max-width: 100%;
+    }
+    .box5-midel{
+        flex-direction: column;
+    }
+    .box5-midel-box1{
+        width: 100%;
+        font-size: 20px;
+        justify-content: left;
+    }
+    .box5-midel-box2{
+        width: 100%;
+        flex-direction: column;
+        justify-content: left;
+        align-items: flex-start;
+    }
+    .box5-dacoration-box1{
+        top: -140px;
+        left: -50px;
+    }
+    .box6-midel-box{
+        flex-direction: column;
+        gap: 30px;
+    }
+    .box6-midel-box-iner{
+        width: 100%;
+    }
+    .box7-midel{
+        width: 90%;
+        flex-direction: column;
+    }
+    .box7-midel-box-iner{
+        width: 100%;
+    }
+    .box7-iner-hadding{
+        font-size: 30px;
+    }
+    .box7-iner-box-hadding{
+        font-size: 25px;
+    }
+    .box7-iner-text-box{
+        width: 100%;
+    }
+    .box7-midel-box-iner2{
+        width: 100%;
+    }
+    .box7-iner2-img-pr{
+        padding: 0px 0px;
+    }
+    .box7-decoration-box{
+        bottom: -231px;
+        right: -116px;
+    }
+    .box8{
+        max-width: 100%;
+    }
+    .box8-midel-contaner{
+        flex-direction: column;
+    }
+    .box8-midel-box1{
+        width: 100%;
+    }
+    .box8-midel-box2{
+        width: 100%;
+    }
+    .box8-hadding{
+        font-size: 20px;
+    }
+    .box8-iner-icon ul{
+        font-size: 15px;
+        gap: 10px;
+    }
+    .box8-img-hadding{
+        font-size: 15px;
+    }
+    .box9-midel{
+        padding: 50px 0px;
+    }
+    .box9-hadding{
+        font-size: 20px;
+    }
+    .box9-pr{
+        font-size: 15px;
+    }
+    .box10-midel{
+        width: 85%;
+        flex-direction: column;
+        gap: 20px;
+    }
+    .box-midel-left{
+        width: 100%;
+    }
+    .footer-midel{
+        flex-direction: column;
+    }
+    .footer-midel-1 img{
+        width: 100%;
+    }
+    .footer-midel-2{
+        flex-direction: column;
+    }
+    .footer-end-midel{
+        flex-direction: column;
+        justify-content: center;
+        gap: 10px;
+    }
+    .footer-end-midel-1{
+        text-align: center;
+        font-size: 15px;
+    }
+    .fotter-li-box-1{
+        width: 100%;
+    }
+}
